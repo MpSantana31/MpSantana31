@@ -1,6 +1,3 @@
-[![Minhas Stats no GitHub](https://github-readme-stats.vercel.app/api?username=MpSantana31&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MpSantana31&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 Desenvolvedor Python especializado em automação, desenvolvimento de APIs e integração de Inteligência Artificial. Foco na construção de soluções eficientes e escaláveis para otimizar processos e impulsionar resultados.
 
