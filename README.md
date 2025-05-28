@@ -1,3 +1,8 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MpSantana31&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MpSantana31&theme=vue-dark)](https://git.io/streak-stats)
+
+
 Desenvolvedor Python especializado em automação, desenvolvimento de APIs e integração de Inteligência Artificial. Foco na construção de soluções eficientes e escaláveis para otimizar processos e impulsionar resultados.
 
 ## // Core Competencies
