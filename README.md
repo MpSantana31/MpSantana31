@@ -1,6 +1,6 @@
-# 👋 Opa, sou Marcos P. Santana
+# Marcos P. Santana
 
-**Backend & AI specialist** · São Paulo, SP
+Backend & AI specialist · DevOps · São Paulo, SP
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)]()
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)]()
@@ -13,25 +13,25 @@
 
 ---
 
-### 🚀 O que tô fazendo
+### Em andamento
 
 **AboveMap** · Plataforma de planejamento de viagens com IA
 > FastAPI · PostgreSQL/pgvector · Redis · Celery · OpenAI/Anthropic · Stripe · AWS
-> _Pré-lançamento · 95k+ linhas, tudo feito por mim_
+> _Pre-lancamento · 95k+ linhas de codigo_
 
-[**AnkiTutor**](https://github.com/MpSantana31/AnkiTutor) · Tutor de IA pra seus flashcards do Anki
-> Python · Múltiplos LLM providers · CI/CD · Open-source · MIT
+[**AnkiTutor**](https://github.com/MpSantana31/AnkiTutor) · Tutor de IA para flashcards do Anki
+> Python · Multiplos LLM providers · CI/CD · Open-source · MIT
 
 ---
 
-### 🛠️ Outros projetos
+### Outros projetos
 
 | Projeto | Stack |
 |---------|-------|
-| [Instituto GAPDAP](https://github.com/MpSantana31/instituto-gapdap-site) — Site institucional p/ grupo de apoio à saúde mental | Next.js 16 · React 19 · Tailwind v4 |
-| [CBTC Simulator](https://github.com/MpSantana31/CBTC_Simulator) — Simulador de metrô CBTC | Java · JavaFX · MySQL |
-| [Phishing ML Research](https://github.com/MpSantana31/phishing-ml-research) — Detecção de phishing com NLP | Python · scikit-learn · NLP |
+| [Instituto GAPDAP](https://github.com/MpSantana31/instituto-gapdap-site) — Site institucional para grupo de apoio a saude mental | Next.js 16 · React 19 · Tailwind v4 |
+| [CBTC Simulator](https://github.com/MpSantana31/CBTC_Simulator) — Simulador de metro CBTC | Java · JavaFX · MySQL |
+| [Phishing ML Research](https://github.com/MpSantana31/phishing-ml-research) — Deteccao de phishing com NLP | Python · scikit-learn · NLP |
 
 ---
 
-📫 **marcos@abovemap.com** · [LinkedIn](https://linkedin.com/in/mpsantana31)
+marcos.paulo.t08@gmail.com · [LinkedIn](https://linkedin.com/in/mpsantana31)
